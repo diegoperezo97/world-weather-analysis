@@ -1,3 +1,10 @@
+# Adding config.py file
+world-weather-analysis/Module 6/World Weather Analysis/config.py
+
+# Adding additional files:
+world-weather-analysis/Module 6/World Weather Analysis/api_practice.ipynb
+world-weather-analysis/Module 6/World Weather Analysis/random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
